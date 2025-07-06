@@ -1,0 +1,1 @@
+Tensorflow implementation of the BinaryConnect algorithm from "BinaryConnect: Training Deep Neural Networks with binary weights during propagations" by Matthieu Courbariaux, Yoshua Bengio, and Jean-Pierre David.
